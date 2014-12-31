@@ -1,6 +1,7 @@
 assignment2 <- function(s) {
   
   library(ggplot2)
+  library(plyr)
   
   source("plot1.R")
   source("plot2.R")
